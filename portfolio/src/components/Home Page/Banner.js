@@ -16,7 +16,7 @@ const Banner = () => {
 
             {/* button */}
             <div className="mt-12 mb-28">
-              <Link href="#" className='inline-block bg-transparent border border-white text-white px-6 py-2 rounded-full hover:text-black transition'>Visit Link</Link>
+              <Link href="#" className='inline-block bg-transparent border border-white text-white px-6 py-2 rounded-full hover:text-black transition'>Hire Me</Link>
             </div>
 
             {/* button */}

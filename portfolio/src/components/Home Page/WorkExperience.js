@@ -4,21 +4,21 @@ import WorkExperienceItem from './WorkExperienceItem'
 const experiences = [
 
         {
-          "date": "2023-06-01 - 2024-03-01",
+          "date": "2024-10-05 - Till Date",
           "title": "Full-Stack Developer",
           "company": "Code Connoisseurs",
           "description": "Designed and developed full-stack applications with React, Node.js, and Firebase, integrating AI-powered features for enhanced user experience."
         },
         {
-            "date": "2022-09-01 - 2023-05-31",
+            "date": "2024-12-31 - 2024-11-21",
             "title": "Blockchain Developer",
-            "company": "Abstract Eco System",
+            "company": "Aptos Eco System",
             "description": "Developed and deployed smart contracts, optimized gas fees, and built decentralized applications (DApps) using Solidity and Foundry."
         },
         {
-          "date": "2021-01-15 - 2022-08-30",
+          "date": "2024-03-15 - 2024-08-30",
           "title": "Software Engineer Intern",
-          "company": "Tech Solutions Ltd.",
+          "company": "Stackup.Dev",
           "description": "Worked on backend development using Express.js and PostgreSQL, collaborated with cross-functional teams to deliver scalable solutions."
         }
       

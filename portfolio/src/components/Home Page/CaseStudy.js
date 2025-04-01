@@ -8,9 +8,9 @@ const CaseStudy = () => {
                 description: "Web app",
             },
             {
-                imgSrc: "/assets/img/caseImg-2.avif",
-                title: "Jade Template",
-                description: "Portfolio Template",
+                imgSrc: "/assets/img/caseImg-2.jpg",
+                title: "Template",
+                description: "Mobile Template",
             },
             {
                 imgSrc: "/assets/img/caseImg-3.avif",
@@ -18,9 +18,9 @@ const CaseStudy = () => {
                 description: "Visual Design",
             },
             {
-                imgSrc: "/assets/img/caseImg-4.avif",
-                title: "Icon",
-                description: "Portfolio Template",
+                imgSrc: "/assets/img/caseImg-4(1).avif",
+                title: "Mobile",
+                description: "Mobile Design",
             },
 
     ];
